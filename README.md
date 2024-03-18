@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <a href="https://app.daily.dev/ghoulbiter"><img src="https://api.daily.dev/devcards/v2/gevPbPwfLsNCPWLIJ8nuj.png?r=nlz&type=default" width="356" alt="Mike Hanna's Dev Card"/></a>
+<a href="https://app.daily.dev/ghoulbiter"><img src="./devcard.png" width="356" alt="Mike Hanna's Dev Card"/></a>
 
 <!--
 **GhoulBiter/GhoulBiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

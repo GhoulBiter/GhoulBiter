@@ -8,6 +8,7 @@ The biggest driver for me is solving problems—especially those that can benefi
 I’m driven by the idea that technology can be a tool for positive change, and I’m constantly seeking out opportunities to apply my skills to new, impactful projects. Whether it's creating more efficient service booking systems or developing healthcare applications, my ultimate goal is to make the world a better, more connected place through technology.
 
 ✉️ I love collaborating on projects and exploring new ideas, so feel free to reach out to me if you’re working on something exciting or just want to chat about tech!
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ghoulbites) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mike-hanna) 
 
 
